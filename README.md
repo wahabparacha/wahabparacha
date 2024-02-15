@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahabparacha&label=Profile%20views&color=0e75b6&style=flat" alt="wahabparacha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahabparacha" alt="wahabparacha" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahabparacha&theme=dracula" alt="wahabparacha" /></a> </p>
 
 - 🔭 I’m currently working on **AI implementation on Brain waves**
 
